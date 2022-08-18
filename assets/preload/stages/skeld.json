@@ -1,0 +1,9 @@
+{
+	"directory": "skeld",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+
+	"boyfriend": [300, 25, 1, 1],
+	"girlfriend": [-100, -5],
+	"opponent": [-600, 25, 1, 1]
+}
